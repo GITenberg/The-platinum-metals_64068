@@ -1,0 +1,24 @@
+_repo: The-platinum-metals_64068
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lumb, Arthur Douglas
+    alias: Lumb, A. D. (Arthur Douglas)
+    deathdate: 1938
+    gutenberg_agent_id: '52737'
+    url: http://www.gutenberg.org/2009/agents/52737
+description: ''
+gutenberg_issued: '2020-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Platinum group'
+- !lcc 'TN'
+- GITenberg
+title: The platinum metals
+url: http://www.gutenberg.org/ebooks/64068
